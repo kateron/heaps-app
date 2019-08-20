@@ -1,0 +1,34 @@
+Formative 2
+
+
+Discuss the vision
+
+// Sasha
+
+Mockup:
+	Create html + css mockup (keep it simple, use the view layout)
+
+
+// Nidhi
+
+ERD Diagram
+
+
+// Kiko
+
+server: 
+	Build api to CRUD the item (get, post, put, delete routes)
+
+
+// All
+
+React: 
+	Set up project with view layout
+	Create components
+	Code Each view to read  / add / update delete your item
+
+// Kathryn
+
+Git: master branch
+	Each member to create feature branch, 
+	then merge back to master
